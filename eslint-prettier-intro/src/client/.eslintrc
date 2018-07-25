@@ -1,0 +1,38 @@
+{
+  "extends": [
+    "wix/react",
+    "plugin:import/errors",
+    "plugin:import/warnings"
+  ],
+  "settings": {
+    "import/core-modules": [
+      "moment",
+      "trackJs",
+      "Wix"
+    ],
+    "react": {
+      "version": "15.5.4"
+    }
+  },
+  "rules": {
+    "camelcase": 0,
+    "comma-dangle": ["error", {
+      "arrays": "always-multiline",
+      "objects": "always-multiline",
+      "imports": "always-multiline",
+      "exports": "always-multiline"
+    }],
+    "import/no-named-as-default-member": 0,
+    "react/jsx-boolean-value": 0,
+    "react/jsx-closing-bracket-location": [2, "tag-aligned"]
+  },
+  "plugins": [
+    "eslint-plugin-babel"
+  ],
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "fetchMock": false
+  }
+}

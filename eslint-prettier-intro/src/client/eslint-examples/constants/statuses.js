@@ -1,0 +1,4 @@
+export const STATUS_CODE_NOT_STARTED = 'NOT_STARTED';
+export const STATUS_CODE_IN_PROGRESS = 'IN_PROGRESS';
+export const STATUS_CODE_ABOUT_TO_END = 'ABOUT_TO_END';
+export const STATUS_CODE_DONE = 'DONE';
