@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>RevealJS : /home/astrauka/personal/presentations/2018-how-brain-works/README.md</title>
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/white.css" id="theme">
+        
+       
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="lib/css/Zenburn.css">
+
+        
+
+        <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+        <script>
+          document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+        </script>
+
+        <style type="text/css">
+            @page {    
+              margin: 0;
+              size: auto; 
+            }
+        </style>
+
+        <script>
+         if(window.location.search.match( /print-pdf-now/gi )) {
+           window.print();
+         }
+      </script>
+
+    </head>
+    <body>
+
+        <div class="reveal">
+            <div class="slides"><section  data-markdown><script type="text/template">
+# Configure your brain!
+
+Learn patterns of how your brain functions
+</script></section><section  data-markdown><script type="text/template">
+## Structure
+
+- Stress effect on your brain
+- Ways to break thoughts cycle
+- Forming habits
+- Changing reactions
+</script></section><section ><section data-markdown><script type="text/template">
+## Stress effect on your brain
+
+[Video](https://www.youtube.com/watch?v=WuyPuH9ojCE),
+[Alt video](../videos/stress-effects.mp4)
+</script></section><section data-markdown><script type="text/template">
+### Short term stress
+
+* improves focus and releases energy
+* supresses digestion system and immune system
+
+![cortisol](../images/cortisol-functions.png)
+</script></section><section data-markdown><script type="text/template">
+### Chronic stress
+
+Response to emotional pressure suffered for a prolonged period of time
+
+* overworked
+* unrealistic deadlines
+* multitasking
+* arguments at home
+</script></section><section data-markdown><script type="text/template">
+### Chronic stress effects
+
+* stronger amygdala - more fear
+* weaker hypocampus - less learning and memory
+* shrinking of prefrontal cortex - less cognitive ability
+  * loss of synaptic connections between neurons
+</script></section></section><section ><section data-markdown><script type="text/template">
+## Synaptic connections
+
+[Video](https://www.youtube.com/watch?v=mItV4rC57kM),
+[Alt video](../videos/synapses.mp4)
+
+* neurons 1 or 0
+* synapses
+  * sender signal 0..1
+  * receiver sensitivity 0..1
+</script></section><section data-markdown><script type="text/template">
+### Brain activity
+
+Stable patterns of neuron firing
+
+![neurons](../images/neurons-firing.jpg)
+</script></section><section data-markdown><script type="text/template">
+### Neuroplasticity
+
+[Video](https://www.youtube.com/watch?v=1EQ3kAPzVVI),
+[Alt video](../videos/neuroplasticity.mp4)
+</script></section><section data-markdown><script type="text/template">
+* automates repeated processes
+  * allows to learn a skill
+* uses well established roads
+  * the more you think/feel/do it, the more you think/feel/do it
+  * obsessive
+* builds new roads
+  * resistant to change
+  * no fixed personality
+* breaks abandoned roads
+  * can get rid of any habbit
+  * important to constantly stimulate different paths
+</script></section></section><section ><section data-markdown><script type="text/template">
+## Ways to break thoughts cycle
+
+* alcohol
+  * screws up synapses, kills neurons
+* sports
+  * requires special setup
+* meditation
+  * hard to learn
+</script></section><section data-markdown><script type="text/template">
+### Concentrate on one thing
+
+* do something that requires concentration
+* notice that you are thinking about something else
+  * I am thinking about work
+* get back to concentration object
+  * Where was I? ...
+* no push
+  * fighting the thoughts is thinking those thoughts
+  * just do something more important
+</script></section></section><section  data-markdown><script type="text/template">
+## Forming habits
+
+![habits](../images/forming-habits.png)
+</script></section><section  data-markdown><script type="text/template">
+### Changing reactions
+
+* everything that happens in the brain is real
+* after you noticed that things went wrong
+  * understand where you started to go off the path
+  * identify exact trigger
+  * think of what you wish you have done
+  * live it up in your brain
+    * feel the trigger
+    * do the right thing
+* iterate on failure
+</script></section><section  data-markdown><script type="text/template">
+## Thank You!
+</script></section></div>
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+        <script>
+            function extend() {
+              var target = {};
+              for (var i = 0; i < arguments.length; i++) {
+                var source = arguments[i];
+                for (var key in source) {
+                  if (source.hasOwnProperty(key)) {
+                    target[key] = source[key];
+                  }
+                }
+              }
+              return target;
+            }
+            // Optional libraries used to extend on reveal.js
+            var deps = [
+              { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+              { src: 'plugin/math/math.js', async: true }
+            ];
+            // default options to init reveal.js
+            var defaultOptions = {
+              controls: true,
+              progress: true,
+              history: true,
+              center: true,
+              transition: 'default',
+              dependencies: deps
+            };
+            // options from URL query string
+            var queryOptions = Reveal.getQueryHash() || {};
+            var options = {
+  "notesSeparator": "note:",
+  "separator": "^[\r\n?|\n]---[\r\n?|\n]$",
+  "verticalSeparator": "^[\r\n?|\n]--[\r\n?|\n]$",
+  "theme": "white",
+  "highlightTheme": "Zenburn",
+  "controls": true,
+  "progress": true,
+  "slideNumber": false,
+  "history": true,
+  "keyboard": true,
+  "overview": true,
+  "center": true,
+  "touch": true,
+  "loop": false,
+  "rtl": false,
+  "shuffle": false,
+  "fragments": true,
+  "embedded": false,
+  "help": true,
+  "showNotes": false,
+  "autoSlide": 0,
+  "autoSlideStoppable": true,
+  "mouseWheel": false,
+  "hideAddressBar": true,
+  "previewLinks": false,
+  "transition": "slide",
+  "transitionSpeed": "default",
+  "backgroundTransition": "default",
+  "viewDistance": 3,
+  "parallaxBackgroundImage": "",
+  "parallaxBackgroundSize": "",
+  "parallaxBackgroundHorizontal": null,
+  "parallaxBackgroundVertical": null,
+  "slideExplorerEnabled": true,
+  "browserPath": null,
+  "attributes": ""
+};
+            options = extend(defaultOptions, options, queryOptions);
+            Reveal.initialize(options);
+
+        </script>
+        
+    </body>
+</html>

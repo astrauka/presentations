@@ -3,9 +3,9 @@ theme : "white"
 transition: "slide"
 ---
 
-# Configure your brain! Learn patterns of how your brain functions
+# Configure your brain!
 
-[Inspired by Christopher Bergland article](https://www.psychologytoday.com/us/blog/the-athletes-way/201402/chronic-stress-can-damage-brain-structure-and-connectivity)
+Learn patterns of how your brain functions
 
 ---
 
@@ -21,16 +21,16 @@ transition: "slide"
 ## Stress effect on your brain
 
 [Video](https://www.youtube.com/watch?v=WuyPuH9ojCE),
-[Alt video](videos/stress-effects.mp4)
+[Alt video](../videos/stress-effects.mp4)
 
 --
 
 ### Short term stress
 
 * improves focus and releases energy
-* supresses digestion and immune systems
+* supresses digestion system and immune system
 
-![cortisol](images/cortisol-functions.png)
+![cortisol](../images/cortisol-functions.png)
 
 --
 
@@ -57,23 +57,27 @@ Response to emotional pressure suffered for a prolonged period of time
 ## Synaptic connections
 
 [Video](https://www.youtube.com/watch?v=mItV4rC57kM),
-[Alt video](videos/synapses.mp4)
+[Alt video](../videos/synapses.mp4)
 
 * neurons 1 or 0
 * synapses
   * sender signal 0..1
   * receiver sensitivity 0..1
 
-Brain activity - stable patterns of neuron firing.
+--
 
-![neurons](images/neurons-firing.jpg)
+### Brain activity
+
+Stable patterns of neuron firing
+
+![neurons](../images/neurons-firing.jpg)
 
 --
 
 ### Neuroplasticity
 
-[Video](https://www.youtube.com/watch?v=1EQ3kAPzVVI)
-[Alt video](videos/neuroplasticity.mp4)
+[Video](https://www.youtube.com/watch?v=1EQ3kAPzVVI),
+[Alt video](../videos/neuroplasticity.mp4)
 
 --
 
@@ -117,9 +121,9 @@ Brain activity - stable patterns of neuron firing.
 
 ## Forming habits
 
-![https://cdn-images-1.medium.com/max/741/1*LugGdOd_slh6GTd1lmmnyA.png](images/forming-habits.png)
+![habits](../images/forming-habits.png)
 
---
+---
 
 ### Changing reactions
 
@@ -136,5 +140,3 @@ Brain activity - stable patterns of neuron firing.
 ---
 
 ## Thank You!
-
-My name is Karolis
