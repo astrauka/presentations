@@ -12,9 +12,9 @@ transition: "slide"
 ## Structure
 
 - Stress effect on your brain
+- Ways to break thoughts cycle
 - Forming habits
 - Changing reactions
-- Meditation as a way to break thoughts cycle
 
 ---
 
@@ -60,9 +60,9 @@ Response to emotional pressure suffered for a prolonged period of time
 [Alt video](videos/synapses.mp4)
 
 * neurons 1 or 0
-* synapses 
-  * sender signal 0..1 
-  * receiver sensitivity 0..1 
+* synapses
+  * sender signal 0..1
+  * receiver sensitivity 0..1
 
 Brain activity - stable patterns of neuron firing.
 
@@ -74,3 +74,67 @@ Brain activity - stable patterns of neuron firing.
 
 [Video](https://www.youtube.com/watch?v=1EQ3kAPzVVI)
 [Alt video](videos/neuroplasticity.mp4)
+
+--
+
+* automates repeated processes
+  * allows to learn a skill
+* uses well established roads
+  * the more you think/feel/do it, the more you think/feel/do it
+  * obsessive
+* builds new roads
+  * resistant to change
+  * no fixed personality
+* breaks abandoned roads
+  * can get rid of any habbit
+  * important to constantly stimulate different paths
+
+---
+
+## Ways to break thoughts cycle
+
+* alcohol
+  * screws up synapses, kills neurons
+* sports
+  * requires special setup
+* meditation
+  * hard to learn
+
+--
+
+### Concentrate on one thing
+
+* do something that requires concentration
+* notice that you are thinking about something else
+  * I am thinking about work
+* get back to concentration object
+  * Where was I? ...
+* no push
+  * fighting the thoughts is thinking those thoughts
+  * just do something more important
+
+---
+
+## Forming habits
+
+![https://cdn-images-1.medium.com/max/741/1*LugGdOd_slh6GTd1lmmnyA.png](images/forming-habits.png)
+
+--
+
+### Changing reactions
+
+* everything that happens in the brain is real
+* after you noticed that things went wrong
+  * understand where you started to go off the path
+  * identify exact trigger
+  * think of what you wish you have done
+  * live it up in your brain
+    * feel the trigger
+    * do the right thing
+* iterate on failure
+
+---
+
+## Thank You!
+
+My name is Karolis
