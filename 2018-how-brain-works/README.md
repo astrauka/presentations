@@ -83,15 +83,24 @@ Stable patterns of neuron firing
 
 * automates repeated processes
   * allows to learn a skill
+
 * uses well established roads
   * the more you think/feel/do it, the more you think/feel/do it
   * obsessive
+
+--
+
 * builds new roads
   * resistant to change
   * no fixed personality
+
 * breaks abandoned roads
   * can get rid of any habbit
   * important to constantly stimulate different paths
+
+--
+
+![neural-activity](../images/neural-activity.png)
 
 ---
 
