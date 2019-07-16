@@ -171,40 +171,27 @@ such as migraine or high blood pressure, anxiety, or depression
 
 --
 
-Perfectionist
+### Solved issues
 
-- Harmonist
-
---
-
-Imposer
-
-- Reflrectionist
+- Perfectionist
+- Imposer
+- Form long term relationship
+- Chronic headache
 
 --
 
-Form long term relationship
+### Unsolved Issues
 
-- Living in peace with the essence of the world
-
---
-
-Workaholic
-
-- Still on it, creating empty space
-
---
-
-Chronic headache
-
-- Most often able to recognize that I'm stressing out and relax
+- Workaholic
 
 ---
 
 # Yoga
 
-- a disciplined method for attaining a goal
-- techniques of controlling the body and the mind
+A disciplined method and techniques for attaining a goal of controlling
+
+- the body
+- the mind
 
 ---
 
@@ -279,6 +266,14 @@ Development of many satellite traditions of yoga.
 --
 
 IMAGE yoga metodas
+
+--
+
+- no single line, all intertwined
+- all flavors - religious / spiritual / tantric
+- saying "I practice yoga" is like saying "I practice lifestyle"
+- umbrella term
+- no preconceptions
 
 ---
 
@@ -377,7 +372,7 @@ images
 
 images
 
---
+---
 
 # OM TAT SAT
 
@@ -385,7 +380,25 @@ simbolis OM
 
 ---
 
-## Polar emotions
+# Questions?
+
+---
+
+# Bonuses
+
+---
+
+## Tune a guitar
+
+gitara paveiksliukas
+
+--
+
+## Tune your mind
+
+--
+
+### Polar emotions
 
 - Hatred -> love
 - Anger -> ease
@@ -396,3 +409,27 @@ simbolis OM
 - Fear -> calmness
 - Agitation -> tranquility
 - Separation -> oneness
+
+--
+
+A guitar that **sounds**
+
+-
+
+A **sound** person
+
+---
+
+## Role models
+
+--
+
+### Popular ones
+
+paveiksliukai iconu
+
+--
+
+### Masters
+
+paveiksliukai tu kurie pasieke
