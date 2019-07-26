@@ -1,7 +1,3 @@
----
-theme: "white"
-transition: "slide"
----
 
 # How did I improve my brain?
 
@@ -183,12 +179,6 @@ such as migraine or high blood pressure, anxiety, or depression
 ### Unsolved Issues
 
 - Workaholic
-
----
-
-## Disclaimer
-
-![cow](./images/cow.png)
 
 ---
 
