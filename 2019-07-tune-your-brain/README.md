@@ -414,6 +414,10 @@ Listening to guru teaching
 
 # Questions?
 
+--
+
+![joga metodas](./images/mai-ram.jpg)
+
 ---
 
 # Bonuses
